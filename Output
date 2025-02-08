@@ -1,0 +1,5 @@
+Available Currencies: USD, EUR, GBP, INR
+Enter the currency you have (e.g., USD, EUR, GBP, INR): EUR
+Enter the currency to convert to: GBP
+Enter the amount: 20
+Converted Amount: 17.12 GBP
