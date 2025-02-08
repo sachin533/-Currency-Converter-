@@ -1,0 +1,5 @@
+Available Currencies: USD, EUR, GBP, INR
+Enter the currency you have (e.g., USD, EUR, GBP, INR): USD
+Enter the currency to convert to: INR
+Enter the amount: 10
+Converted Amount: 832.50 INR
